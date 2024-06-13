@@ -12,9 +12,12 @@ File structure:
 
 ## Installation:
 
-To create a fork of the repository, click the Fork dropdown and select "Create a new fork".  
+### Fork the Repository:
+- Go to the repository on GitHub and click on the "Fork" button to create a copy under your GitHub account.
 
-To clone the repo to your local machine, run the following code in a terminal:  
+### Clone the Repository:
+
+- Clone the forked repository to your local machine by running the following commands in your terminal:
 
     git clone https://github.com/DevTomUK/BlankViteTemplate.git
     cd BlankViteTemplate
