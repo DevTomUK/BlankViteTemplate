@@ -1,6 +1,18 @@
 # Basic Vite App with routing
 
-## Contains:
+## Quick App setup
+
+Start building an app quickly with this basic template.  
+This template comes with a basic Navbar and two Routes to start building on.  
+
+## Installation:
+Run the following code in a terminal:  
+
+    git clone https://github.com/DevTomUK/BlankViteTemplate.git
+    cd BlankViteTemplate
+    npm i
+
+### Contents:
 
 - vite@latest installed
 - react-router-dom installed
@@ -9,7 +21,7 @@
 - main.jsx - Added BrowserRouter wrapper
 - index.html - Changed Title
 
-## Changes Made:
+### Changes Made:
 
 - Created basic Navbar component with Links to routes
 - Styled Navbar with basic external styling
