@@ -1,0 +1,38 @@
+.navbar {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    background-color: grey;
+    width: 100vw;
+    height: 40px;
+    padding: 10px 0;
+}
+
+.navbar-left {
+    margin: 0 10px;
+    padding: 10px;
+}
+
+.navbar-container {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+    max-width: 1080px;
+  }
+
+  .navbar-links {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-end;
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+  }
+
+  .navbar-link {
+    margin: 0 10px;
+    padding: 10px;
+  }
