@@ -1,4 +1,6 @@
 # Basic Vite App with routing
+*By DevTomUK*  
+[DevTomUK - Github](https://github.com/DevTomUK/BlankViteTemplate)
 
 ## Quick App setup
 
