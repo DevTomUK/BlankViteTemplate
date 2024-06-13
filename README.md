@@ -7,6 +7,9 @@
 Start building an app quickly with this basic template.  
 This template comes with a basic Navbar and two Routes to start building on.  
 
+File structure:  
+![File Structure on VSCode](./src/assets/screenshot.png)
+
 ## Installation:
 
 To create a fork of the repository, click the Fork dropdown and select "Create a new fork".  

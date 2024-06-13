@@ -4,7 +4,7 @@
   margin: 0 auto;
   text-align: center;
   width: 100vw;
-  background: linear-gradient(135deg, rgb(59, 45, 32), #254e7e);
+  background: linear-gradient(135deg, rgb(226, 216, 206), #c7d1dc);
 }
 
 main {
@@ -15,7 +15,7 @@ main {
   margin: 0 auto;
   width: 100%;
   margin-top: 20px;
-  color: rgb(248, 248, 248);
+  color: rgb(0, 0, 0);
   min-height: 80vh;
 }
 

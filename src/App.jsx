@@ -1,16 +1,16 @@
 // React
 import { Route, Routes } from 'react-router-dom'
 
-// Stlying
+// Stlyes
 import './App.css'
+
+// Components
 import Navbar from './assets/components/Navbar/Navbar'
 import HomePage from './routes/HomePage'
 import PageTwo from './routes/PageTwo'
 
 function App() {
-
   return (
-
     <>
       <Navbar />
       <main>
